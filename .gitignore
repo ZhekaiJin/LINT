@@ -1,0 +1,21 @@
+#Executables
+*.out
+*.app
+
+#libs
+*.mod
+*.smod
+*.lib 
+*.a
+
+
+#compiled stuff
+*.o
+*.obj
+*.slo
+
+
+#Dyn
+*.so
+
+
